@@ -2,7 +2,7 @@
 // © bxrkxss
 
 //@version=5
-indicator("ICT Concepts [LuxAlgo]", max_lines_count=500, max_boxes_count=500, max_labels_count=500, max_bars_back=3000, overlay=true)
+indicator("ICT Concepts [bxrkxss]", max_lines_count=500, max_boxes_count=500, max_labels_count=500, max_bars_back=3000, overlay=true)
 //-----------------------------------------------------------------------------}
 //Strings
 //-----------------------------------------------------------------------------{
